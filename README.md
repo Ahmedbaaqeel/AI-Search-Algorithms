@@ -4,7 +4,7 @@ This project uses various Artificial Intelligence search algorithms (Tree like o
 
 ## Implementation <img src="https://cdn-icons-png.flaticon.com/128/4236/4236694.png" style="width:35px;height:35px;">:
 
-## <p style="display: flex; justify-content: center;align-items:center;">Python<a href="https://www.python.org"><img src="[https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png](https://cdn-icons-png.flaticon.com/128/919/919852.png)" alt="Python logo" style="width:48px;height:48px;margin-left:10px;"> </a></p>
+## <p style="display: flex; justify-content: center;align-items:center;">Python<a href="https://www.python.org"><img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python logo" style="width:48px;height:48px;margin-left:10px;"> </a></p>
 
 ## The Algorithms are:
 
