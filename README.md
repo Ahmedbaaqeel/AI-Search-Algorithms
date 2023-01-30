@@ -25,12 +25,13 @@ This project uses various Artificial Intelligence search algorithms (Tree like o
 - <b>Route problem</b>:
 To clarify the usage of RouteProblem, consider the following map of cities.
 <br>
-
   <img src="/extra-doc/route_example.PNG" width=350px>
 
 Assume that start state is A, and the goal is E, assume all costs are 1. Then starting from A you have, giving one to the action function with the current state creates the new state. Furthermore, leading to E with the least cost using <b>Euclidean Distance</b> heuristic.
 <br>
-<b>Grid problem</b>: A grid problem instance consists of an N-by-M grid (N rows and M columns). Some grid locations contain walls that the agent
+
+
+- <b>Grid problem</b>: A grid problem instance consists of an N-by-M grid (N rows and M columns). Some grid locations contain walls that the agent
 cannot move into; we will use a list of locations wall_coords to store these wall locations. Some grid locations contain food
 that the agent can consume food_coords. The agent starts at some grid location (xA, yA). The agent can move left, right, up,
 and down one grid. The agent cannot move outside the bounds of the N-by-M grid. The goal is to consume all food on the grid with the minimum distance moved using <b>Manhattan distance</b> heuristic.
