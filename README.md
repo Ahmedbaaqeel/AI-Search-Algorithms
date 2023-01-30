@@ -26,7 +26,7 @@ This project uses various Artificial Intelligence search algorithms (Tree like o
 To clarify the usage of RouteProblem, consider the following map of cities.
 <br>
 
-  <img src="extra-doc/route_example.png" width=350px>
+  <img src="/extra-doc/route_example.PNG" width=350px>
 
 Assume that start state is A, and the goal is E, assume all costs are 1. Then starting from A you have, giving one to the action function with the current state creates the new state. Furthermore, leading to E with the least cost using <b>Euclidean Distance</b> heuristic.
 
