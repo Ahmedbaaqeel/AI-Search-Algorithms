@@ -42,4 +42,4 @@ The agent is in (7, 4). The walls are at [(4,3), (5,1), (5,2)]. The food are at 
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/2570/2570287.png" width=20px/> Author
 
-[@AhmadBaaqeel](https://github.com/Ahmedbaaqeel)**
+[@AhmadBaaqeel](https://github.com/Ahmedbaaqeel)
