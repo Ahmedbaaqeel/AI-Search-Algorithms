@@ -39,3 +39,7 @@ and down one grid. The agent cannot move outside the bounds of the N-by-M grid. 
 <img src="/extra-doc/grid_example.PNG" alt="Grid example" width=350px >
 
 The agent is in (7, 4). The walls are at [(4,3), (5,1), (5,2)]. The food are at [(3,1), (2,3), (4,5)].
+
+## <img src="https://cdn-icons-png.flaticon.com/128/2570/2570287.png" width=20px/> Author
+
+[@AhmadBaaqeel](https://github.com/Ahmedbaaqeel)**
